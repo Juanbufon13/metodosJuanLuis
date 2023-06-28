@@ -1,0 +1,7 @@
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\metodos\metodos\bin\Debug\metodos.exe.config
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\metodos\metodos\bin\Debug\metodos.exe
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\metodos\metodos\bin\Debug\metodos.pdb
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\metodos\metodos\obj\Debug\metodos.csprojAssemblyReference.cache
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\metodos\metodos\obj\Debug\metodos.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\metodos\metodos\obj\Debug\metodos.exe
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\metodos\metodos\obj\Debug\metodos.pdb
